@@ -18,7 +18,7 @@ function App() {
             <div className="flex gap-x-4 text-sm">
               {/* image */}
               <img
-                className="rounded-full w-11 h-11 border-2 border-white"
+                className="rounded-full w-11 h-11 ring-2 ring-purple-200"
                 src="/images/image-daniel.jpg"
                 alt="profile image"
               />
